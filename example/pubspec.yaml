@@ -1,0 +1,26 @@
+name: native_html_to_pdf_example
+description: Demonstrates how to use the native_html_to_pdf plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  native_html_to_pdf:
+    path: ../
+
+  path_provider: ^2.1.2
+  pdfx: ^2.9.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,3 +1,8 @@
+## 1.0.4
+
+* **Advanced SEO**: Updated `topics` with high-intent keywords like `invoice-generator` and `webview` for better search visibility.
+* **Refined Metadata**: Optimized package description for improved indexing on pub.dev.
+
 ## 1.0.3
 
 * **README Improvement**: Added dynamic status badges (Downloads, Version, Likes, Points) to the README file.

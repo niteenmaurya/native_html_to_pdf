@@ -1,17 +1,22 @@
 name: native_html_to_pdf
 description: Convert local HTML files into high-quality PDFs using native Android and iOS engines with full control over page size, margins, orientation, and DPI.
-version: 1.0.3
+version: 1.0.4
 
 homepage: https://github.com/niteenmaurya/native_html_to_pdf
 repository: https://github.com/niteenmaurya/native_html_to_pdf
 issue_tracker: https://github.com/niteenmaurya/native_html_to_pdf/issues
 
 topics:
-  - pdf
-  - html
-  - native
-  - printing
+  - flutter
+  - html-to-pdf
+  - native-pdf
   - ios
+  - android
+  - printing
+  - invoice-generator
+  - webview
+  - flutter-plugin
+  - dart
 
 environment:
   sdk: ^3.10.8

@@ -1,6 +1,6 @@
 # native_html_to_pdf
 
-A Flutter plugin to convert local HTML files into PDF using native Android and iOS rendering engines.
+A powerful Flutter plugin to convert local HTML, CSS, and JavaScript files into high-quality PDFs. If you are looking for a fast and reliable Flutter HTML to PDF converter, this package uses native Android and iOS rendering engines for offline PDF generation. It easily handles complex layouts without relying on any third-party servers.
 
 ## Features
 

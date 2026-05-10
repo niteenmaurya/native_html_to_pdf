@@ -5,7 +5,7 @@
 
 <br>
 
-[![All Users Download](https://img.shields.io/badge/dynamic/json?color=28a745&label=All%20Users%20Download&query=%24.downloadCount30Days&url=https%3A%2F%2Fpub.dev%2Fapi%2Fpackages%2Fnative_html_to_pdf%2Fscore&style=for-the-badge&logo=flutter)](https://pub.dev/packages/native_html_to_pdf)
+[![Total Downloads](https://img.shields.io/badge/dynamic/json?color=28a745&label=Total%20Downloads&query=%24.downloadCount30Days&url=https%3A%2F%2Fpub.dev%2Fapi%2Fpackages%2Fnative_html_to_pdf%2Fscore&style=for-the-badge&logo=flutter)](https://pub.dev/packages/native_html_to_pdf)
 
 <br>
 

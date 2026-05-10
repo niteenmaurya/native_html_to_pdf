@@ -1,3 +1,7 @@
+## 1.0.3
+
+* **README Improvement**: Added dynamic status badges (Downloads, Version, Likes, Points) to the README file.
+
 ## 1.0.2
 
 * **SEO Optimization**: Added `topics` in `pubspec.yaml` for better discoverability and search ranking on pub.dev.

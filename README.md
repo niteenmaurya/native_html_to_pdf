@@ -1,11 +1,6 @@
 # native_html_to_pdf
 
-<br>
-
 [![Total Downloads](https://img.shields.io/badge/dynamic/json?color=red&label=Monthly%20Downloads&query=%24.downloadCount30Days&url=https%3A%2F%2Fpub.dev%2Fapi%2Fpackages%2Fnative_html_to_pdf%2Fscore&style=for-the-badge&logo=flutter)](https://pub.dev/packages/native_html_to_pdf)
-
-<br>
-
 [![Pub Version](https://img.shields.io/pub/v/native_html_to_pdf)](https://pub.dev/packages/native_html_to_pdf)
 [![Pub Likes](https://img.shields.io/pub/likes/native_html_to_pdf)](https://pub.dev/packages/native_html_to_pdf)
 [![Pub Points](https://img.shields.io/pub/points/native_html_to_pdf)](https://pub.dev/packages/native_html_to_pdf)

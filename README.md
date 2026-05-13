@@ -80,6 +80,14 @@ Recommended values:
 - `300` for normal quality
 - `600` for high quality
 
+## Installation
+
+Run this command in your terminal:
+
+```bash
+flutter pub add native_html_to_pdf
+```
+
 ## Usage
 
 ```dart

@@ -80,12 +80,18 @@ Recommended values:
 - `300` for normal quality
 - `600` for high quality
 
+
 ## Installation
 
 Run this command in your terminal:
 
 ```bash
 flutter pub add native_html_to_pdf
+```
+Now, import it in your Dart code:
+
+```bash
+import 'package:native_html_to_pdf/native_html_to_pdf.dart';
 ```
 
 ## Usage
